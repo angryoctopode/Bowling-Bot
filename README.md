@@ -1,4 +1,4 @@
-This collection of discord bots is something I made in my spare time just because I found this meme video to be quite humurous:
+This collection of discord bots is something I made in my spare time just because I found this meme video to be quite humorous:
 https://www.youtube.com/watch?v=aGnKzrwV3As
 
 Have fun using it if you want.
